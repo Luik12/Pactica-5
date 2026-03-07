@@ -1,5 +1,31 @@
 [
   {
+    "ContainingType": "WebApplication2.Controllers.AuthController",
+    "Method": "Login",
+    "RelativePath": "api/Auth/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "login",
+        "Type": "WebApplication2.Modelo.UsuarioLogin",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApplication2.Controllers.AuthController",
+    "Method": "RefreshToken",
+    "RelativePath": "api/Auth/refresh",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "WebApplication2.Controllers.UsuariosController",
     "Method": "GetUsuarios",
     "RelativePath": "api/Usuarios",
@@ -9,7 +35,7 @@
     "Parameters": [],
     "ReturnTypes": [
       {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[WebApplication2.Modelo.Usuario, WebApplication2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[WebApplication2.Modelo.Usuario1, WebApplication2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -29,13 +55,13 @@
     "Parameters": [
       {
         "Name": "usuario",
-        "Type": "WebApplication2.Modelo.Usuario",
+        "Type": "WebApplication2.Modelo.Usuario1",
         "IsRequired": true
       }
     ],
     "ReturnTypes": [
       {
-        "Type": "WebApplication2.Modelo.Usuario",
+        "Type": "WebApplication2.Modelo.Usuario1",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -61,7 +87,7 @@
     ],
     "ReturnTypes": [
       {
-        "Type": "WebApplication2.Modelo.Usuario",
+        "Type": "WebApplication2.Modelo.Usuario1",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -86,7 +112,7 @@
       },
       {
         "Name": "usuario",
-        "Type": "WebApplication2.Modelo.Usuario",
+        "Type": "WebApplication2.Modelo.Usuario1",
         "IsRequired": true
       }
     ],
