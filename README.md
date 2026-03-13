@@ -1,19 +1,7 @@
-# Pactica-5
+# Pactica-6
 
-Para ejecutar la API, primero se debe clonar el repositorio desde GitHub y abrir el proyecto en Visual Studio o en el editor de preferencia. 
-Luego, verificar que la cadena de conexión en el archivo appsettings.json esté configurada correctamente para SQL Server LocalDB.
-Después, abrir la Consola del Administrador de Paquetes y ejecutar el comando Update-Database para aplicar las migraciones y crear la base de datos automáticamente. 
-Finalmente, ejecutar el proyecto presionando F5 o utilizando el comando dotnet run, lo que iniciará la aplicación y abrirá Swagger en el navegador.
+Para probar la API en Swagger, primero ejecuta el proyecto y abre la página de Swagger en el navegador. Luego debes probar el endpoint POST /api/Auth/login presionando Try it out y enviando el usuario y la contraseña en formato JSON; si las credenciales son correctas, la API devolverá un token JWT. Copia ese token y haz clic en el botón Authorize que aparece en la parte superior de Swagger, donde debes pegar el token escribiendo Bearer seguido de un espacio y el token. Después de autorizar, podrás probar los endpoints protegidos como POST /api/Auth/refresh o cualquier otro que tenga Authorize, presionando Execute para verificar que la API responde correctamente utilizando el token de autenticación.
 
-Para probar las rutas usando Swagger, una vez abierta la interfaz, se pueden utilizar los diferentes endpoints disponibles en /api/usuarios.
-El método GET permite obtener todos los usuarios o uno específico por ID; 
-el método POST permite crear un nuevo usuario enviando los datos en formato JSON; 
-el método PUT permite actualizar un usuario existente indicando su ID; y el método DELETE permite eliminar un usuario por ID.
-
-<img width="1199" height="930" alt="image" src="https://github.com/user-attachments/assets/3fc55fe1-355a-40aa-8203-af2110b060d7" />
-<img width="1218" height="869" alt="image" src="https://github.com/user-attachments/assets/07668368-3351-4f6e-995b-170a97eea141" />
-<img width="1264" height="291" alt="image" src="https://github.com/user-attachments/assets/89583fcc-7824-4b22-89b5-11b111ee5cd6" />
-<img width="1275" height="883" alt="image" src="https://github.com/user-attachments/assets/0e31631b-fd57-4b9c-83ba-3057189fc7df" />
-<img width="1195" height="721" alt="image" src="https://github.com/user-attachments/assets/45b93dff-e1c9-4607-ae0a-55e6c701fef0" />
-<img width="1408" height="849" alt="image" src="https://github.com/user-attachments/assets/d517c248-ea12-4ba7-82f9-41423d2b6acc" />
-
+<img width="944" height="740" alt="Captura de pantalla 2026-03-06 213038" src="https://github.com/user-attachments/assets/6f7f7e6c-a496-4f91-966d-564e7a672258" />
+<img width="450" height="243" alt="Captura de pantalla 2026-03-06 213211" src="https://github.com/user-attachments/assets/f9b15b3a-00e3-4d35-904b-918d16dad345" />
+<img width="916" height="576" alt="Captura de pantalla 2026-03-06 213157" src="https://github.com/user-attachments/assets/d533fcec-9437-4438-981e-a96781bafd22" />
