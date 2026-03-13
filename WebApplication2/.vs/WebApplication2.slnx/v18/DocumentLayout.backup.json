@@ -3,28 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\Luik1212\\Documents\\GitHub\\Pactica-5\\WebApplication2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F6CC55CC-4C48-05CF-9997-EAA913F81323}|WebApplication2\\WebApplication2.csproj|c:\\users\\luik1212\\documents\\github\\pactica-5\\webapplication2\\webapplication2\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F6CC55CC-4C48-05CF-9997-EAA913F81323}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F6CC55CC-4C48-05CF-9997-EAA913F81323}|WebApplication2\\WebApplication2.csproj|c:\\users\\luik1212\\documents\\github\\pactica-5\\webapplication2\\webapplication2\\modelo\\proveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6CC55CC-4C48-05CF-9997-EAA913F81323}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\modelo\\proveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F6CC55CC-4C48-05CF-9997-EAA913F81323}|WebApplication2\\WebApplication2.csproj|c:\\users\\luik1212\\documents\\github\\pactica-5\\webapplication2\\webapplication2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F6CC55CC-4C48-05CF-9997-EAA913F81323}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F6CC55CC-4C48-05CF-9997-EAA913F81323}|WebApplication2\\WebApplication2.csproj|c:\\users\\luik1212\\documents\\github\\pactica-5\\webapplication2\\webapplication2\\modelo\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6CC55CC-4C48-05CF-9997-EAA913F81323}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\modelo\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F6CC55CC-4C48-05CF-9997-EAA913F81323}|WebApplication2\\WebApplication2.csproj|c:\\users\\luik1212\\documents\\github\\pactica-5\\webapplication2\\webapplication2\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F6CC55CC-4C48-05CF-9997-EAA913F81323}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F6CC55CC-4C48-05CF-9997-EAA913F81323}|WebApplication2\\WebApplication2.csproj|c:\\users\\luik1212\\documents\\github\\pactica-5\\webapplication2\\webapplication2\\modelo\\usuariologin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F6CC55CC-4C48-05CF-9997-EAA913F81323}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\modelo\\usuariologin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F6CC55CC-4C48-05CF-9997-EAA913F81323}|WebApplication2\\WebApplication2.csproj|c:\\users\\luik1212\\documents\\github\\pactica-5\\webapplication2\\webapplication2\\modelo\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6CC55CC-4C48-05CF-9997-EAA913F81323}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\modelo\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6CC55CC-4C48-05CF-9997-EAA913F81323}|WebApplication2\\WebApplication2.csproj|c:\\users\\luik1212\\documents\\github\\pactica-5\\webapplication2\\webapplication2\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6CC55CC-4C48-05CF-9997-EAA913F81323}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6CC55CC-4C48-05CF-9997-EAA913F81323}|WebApplication2\\WebApplication2.csproj|c:\\users\\luik1212\\documents\\github\\pactica-5\\webapplication2\\webapplication2\\controllers\\proveedorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6CC55CC-4C48-05CF-9997-EAA913F81323}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\proveedorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6CC55CC-4C48-05CF-9997-EAA913F81323}|WebApplication2\\WebApplication2.csproj|c:\\users\\luik1212\\documents\\github\\pactica-5\\webapplication2\\webapplication2\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6CC55CC-4C48-05CF-9997-EAA913F81323}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Luik1212\\Documents\\GitHub\\Pactica-5\\WebApplication2\\WebApplication2\\Migrations\\20260313220018_NuevaEstructura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebApplication2\\Migrations\\20260313220018_NuevaEstructura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F6CC55CC-4C48-05CF-9997-EAA913F81323}|WebApplication2\\WebApplication2.csproj|c:\\users\\luik1212\\documents\\github\\pactica-5\\webapplication2\\webapplication2\\context\\logindbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F6CC55CC-4C48-05CF-9997-EAA913F81323}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\context\\logindbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F6CC55CC-4C48-05CF-9997-EAA913F81323}|WebApplication2\\WebApplication2.csproj|c:\\users\\luik1212\\documents\\github\\pactica-5\\webapplication2\\webapplication2\\modelo\\usuario1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F6CC55CC-4C48-05CF-9997-EAA913F81323}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\modelo\\usuario1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F6CC55CC-4C48-05CF-9997-EAA913F81323}|WebApplication2\\WebApplication2.csproj|c:\\users\\luik1212\\documents\\github\\pactica-5\\webapplication2\\webapplication2\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6CC55CC-4C48-05CF-9997-EAA913F81323}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F6CC55CC-4C48-05CF-9997-EAA913F81323}|WebApplication2\\WebApplication2.csproj|c:\\users\\luik1212\\documents\\github\\pactica-5\\webapplication2\\webapplication2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -33,6 +49,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{F6CC55CC-4C48-05CF-9997-EAA913F81323}|WebApplication2\\WebApplication2.csproj|c:\\users\\luik1212\\documents\\github\\pactica-5\\webapplication2\\webapplication2\\migrations\\20260307004824_initialcreate9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F6CC55CC-4C48-05CF-9997-EAA913F81323}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\migrations\\20260307004824_initialcreate9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6CC55CC-4C48-05CF-9997-EAA913F81323}|WebApplication2\\WebApplication2.csproj|c:\\users\\luik1212\\documents\\github\\pactica-5\\webapplication2\\webapplication2\\modelo\\usuario1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6CC55CC-4C48-05CF-9997-EAA913F81323}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\modelo\\usuario1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,8 +62,48 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 12,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\Luik1212\\Documents\\GitHub\\Pactica-5\\WebApplication2\\WebApplication2\\Modelo\\Producto.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Modelo\\Producto.cs",
+              "ToolTip": "C:\\Users\\Luik1212\\Documents\\GitHub\\Pactica-5\\WebApplication2\\WebApplication2\\Modelo\\Producto.cs",
+              "RelativeToolTip": "WebApplication2\\Modelo\\Producto.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T21:56:49.771Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoriasController.cs",
+              "DocumentMoniker": "C:\\Users\\Luik1212\\Documents\\GitHub\\Pactica-5\\WebApplication2\\WebApplication2\\Controllers\\CategoriasController.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\CategoriasController.cs",
+              "ToolTip": "C:\\Users\\Luik1212\\Documents\\GitHub\\Pactica-5\\WebApplication2\\WebApplication2\\Controllers\\CategoriasController.cs",
+              "RelativeToolTip": "WebApplication2\\Controllers\\CategoriasController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T22:28:37.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProveedoresController.cs",
+              "DocumentMoniker": "C:\\Users\\Luik1212\\Documents\\GitHub\\Pactica-5\\WebApplication2\\WebApplication2\\Controllers\\ProveedoresController.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\ProveedoresController.cs",
+              "ToolTip": "C:\\Users\\Luik1212\\Documents\\GitHub\\Pactica-5\\WebApplication2\\WebApplication2\\Controllers\\ProveedoresController.cs",
+              "RelativeToolTip": "WebApplication2\\Controllers\\ProveedoresController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T22:27:18.657Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
@@ -70,15 +130,55 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductosController.cs",
+              "DocumentMoniker": "C:\\Users\\Luik1212\\Documents\\GitHub\\Pactica-5\\WebApplication2\\WebApplication2\\Controllers\\ProductosController.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\ProductosController.cs",
+              "ToolTip": "C:\\Users\\Luik1212\\Documents\\GitHub\\Pactica-5\\WebApplication2\\WebApplication2\\Controllers\\ProductosController.cs",
+              "RelativeToolTip": "WebApplication2\\Controllers\\ProductosController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T22:02:14.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "20260307004824_InitialCreate9.cs",
-              "DocumentMoniker": "C:\\Users\\Luik1212\\Documents\\GitHub\\Pactica-5\\WebApplication2\\WebApplication2\\Migrations\\20260307004824_InitialCreate9.cs",
-              "RelativeDocumentMoniker": "WebApplication2\\Migrations\\20260307004824_InitialCreate9.cs",
-              "ToolTip": "C:\\Users\\Luik1212\\Documents\\GitHub\\Pactica-5\\WebApplication2\\WebApplication2\\Migrations\\20260307004824_InitialCreate9.cs",
-              "RelativeToolTip": "WebApplication2\\Migrations\\20260307004824_InitialCreate9.cs",
+              "Title": "20260313220018_NuevaEstructura.cs",
+              "DocumentMoniker": "C:\\Users\\Luik1212\\Documents\\GitHub\\Pactica-5\\WebApplication2\\WebApplication2\\Migrations\\20260313220018_NuevaEstructura.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Migrations\\20260313220018_NuevaEstructura.cs",
+              "ToolTip": "C:\\Users\\Luik1212\\Documents\\GitHub\\Pactica-5\\WebApplication2\\WebApplication2\\Migrations\\20260313220018_NuevaEstructura.cs",
+              "RelativeToolTip": "WebApplication2\\Migrations\\20260313220018_NuevaEstructura.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-07T00:48:24.616Z"
+              "WhenOpened": "2026-03-13T22:00:18.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\Luik1212\\Documents\\GitHub\\Pactica-5\\WebApplication2\\WebApplication2\\Modelo\\Categoria.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Modelo\\Categoria.cs",
+              "ToolTip": "C:\\Users\\Luik1212\\Documents\\GitHub\\Pactica-5\\WebApplication2\\WebApplication2\\Modelo\\Categoria.cs",
+              "RelativeToolTip": "WebApplication2\\Modelo\\Categoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T21:58:25.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Proveedor.cs",
+              "DocumentMoniker": "C:\\Users\\Luik1212\\Documents\\GitHub\\Pactica-5\\WebApplication2\\WebApplication2\\Modelo\\Proveedor.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Modelo\\Proveedor.cs",
+              "ToolTip": "C:\\Users\\Luik1212\\Documents\\GitHub\\Pactica-5\\WebApplication2\\WebApplication2\\Modelo\\Proveedor.cs",
+              "RelativeToolTip": "WebApplication2\\Modelo\\Proveedor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T21:57:46.949Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -88,50 +188,27 @@
               "RelativeDocumentMoniker": "WebApplication2\\Controllers\\UsuariosController.cs",
               "ToolTip": "C:\\Users\\Luik1212\\Documents\\GitHub\\Pactica-5\\WebApplication2\\WebApplication2\\Controllers\\UsuariosController.cs",
               "RelativeToolTip": "WebApplication2\\Controllers\\UsuariosController.cs",
-              "ViewState": "AgIAADwAAAAAAAAAAAAqwGUAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAADYAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-07T00:43:27.453Z"
+              "WhenOpened": "2026-03-07T00:43:27.453Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UsuarioLogin.cs",
-              "DocumentMoniker": "C:\\Users\\Luik1212\\Documents\\GitHub\\Pactica-5\\WebApplication2\\WebApplication2\\Modelo\\UsuarioLogin.cs",
-              "RelativeDocumentMoniker": "WebApplication2\\Modelo\\UsuarioLogin.cs",
-              "ToolTip": "C:\\Users\\Luik1212\\Documents\\GitHub\\Pactica-5\\WebApplication2\\WebApplication2\\Modelo\\UsuarioLogin.cs",
-              "RelativeToolTip": "WebApplication2\\Modelo\\UsuarioLogin.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-07T00:34:57.566Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 9,
               "Title": "AuthController.cs",
               "DocumentMoniker": "C:\\Users\\Luik1212\\Documents\\GitHub\\Pactica-5\\WebApplication2\\WebApplication2\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "WebApplication2\\Controllers\\AuthController.cs",
               "ToolTip": "C:\\Users\\Luik1212\\Documents\\GitHub\\Pactica-5\\WebApplication2\\WebApplication2\\Controllers\\AuthController.cs",
               "RelativeToolTip": "WebApplication2\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAUwBQAAABTAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-07T00:31:07.524Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Luik1212\\Documents\\GitHub\\Pactica-5\\WebApplication2\\WebApplication2\\Program.cs",
-              "RelativeDocumentMoniker": "WebApplication2\\Program.cs",
-              "ToolTip": "C:\\Users\\Luik1212\\Documents\\GitHub\\Pactica-5\\WebApplication2\\WebApplication2\\Program.cs",
-              "RelativeToolTip": "WebApplication2\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFoAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-07T00:27:15.804Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Luik1212\\Documents\\GitHub\\Pactica-5\\WebApplication2\\WebApplication2\\appsettings.json",
               "RelativeDocumentMoniker": "WebApplication2\\appsettings.json",
@@ -139,23 +216,38 @@
               "RelativeToolTip": "WebApplication2\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-03-07T00:26:54.908Z"
+              "WhenOpened": "2026-03-07T00:26:54.908Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "LoginDBcontext.cs",
               "DocumentMoniker": "C:\\Users\\Luik1212\\Documents\\GitHub\\Pactica-5\\WebApplication2\\WebApplication2\\Context\\LoginDBcontext.cs",
               "RelativeDocumentMoniker": "WebApplication2\\Context\\LoginDBcontext.cs",
               "ToolTip": "C:\\Users\\Luik1212\\Documents\\GitHub\\Pactica-5\\WebApplication2\\WebApplication2\\Context\\LoginDBcontext.cs",
               "RelativeToolTip": "WebApplication2\\Context\\LoginDBcontext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-07T00:25:52.755Z"
+              "WhenOpened": "2026-03-07T00:25:52.755Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
+              "Title": "20260307004824_InitialCreate9.cs",
+              "DocumentMoniker": "C:\\Users\\Luik1212\\Documents\\GitHub\\Pactica-5\\WebApplication2\\WebApplication2\\Migrations\\20260307004824_InitialCreate9.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Migrations\\20260307004824_InitialCreate9.cs",
+              "ToolTip": "C:\\Users\\Luik1212\\Documents\\GitHub\\Pactica-5\\WebApplication2\\WebApplication2\\Migrations\\20260307004824_InitialCreate9.cs",
+              "RelativeToolTip": "WebApplication2\\Migrations\\20260307004824_InitialCreate9.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T00:48:24.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "Usuario1.cs",
               "DocumentMoniker": "C:\\Users\\Luik1212\\Documents\\GitHub\\Pactica-5\\WebApplication2\\WebApplication2\\Modelo\\Usuario1.cs",
               "RelativeDocumentMoniker": "WebApplication2\\Modelo\\Usuario1.cs",
@@ -163,11 +255,8 @@
               "RelativeToolTip": "WebApplication2\\Modelo\\Usuario1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-07T00:25:12.853Z"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+              "WhenOpened": "2026-03-07T00:25:12.853Z",
+              "EditorCaption": ""
             }
           ]
         }

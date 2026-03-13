@@ -46,7 +46,7 @@ namespace WebApplication2.Controllers
         // LOGIN (NO requiere token)
         [AllowAnonymous]
         [HttpPost("login")]
-        public IActionResult Login([FromBody] UsuarioLogin login)
+        public IActionResult Login([FromBody] Usuario1 login)
         {
             string passwordHash = Sha256(login.Password);
 
