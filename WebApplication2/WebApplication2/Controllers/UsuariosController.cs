@@ -2,6 +2,7 @@
 using Microsoft.EntityFrameworkCore;
 using WebApplication2.Context;
 using WebApplication2.Modelo;
+using WebApplication2.Services; // 👈 NUEVO
 using System.Security.Cryptography;
 using System.Text;
 
@@ -12,10 +13,12 @@ namespace WebApplication2.Controllers
     public class UsuariosController : ControllerBase
     {
         private readonly LoginDBcontext _context;
+        private readonly LogService _logService; // 👈 NUEVO
 
-        public UsuariosController(LoginDBcontext context)
+        public UsuariosController(LoginDBcontext context, LogService logService)
         {
             _context = context;
+            _logService = logService;
         }
 
         // GET: api/usuarios
@@ -44,9 +47,20 @@ namespace WebApplication2.Controllers
             // Encriptar contraseña
             usuario.Password = Sha256(usuario.Password);
 
+            // Guardar en base de datos
             _context.Usuarios1.Add(usuario);
             await _context.SaveChangesAsync();
 
+            // ✅ LOG (solo username y password)
+            var log = new UserLog
+            {
+                Username = usuario.Username,
+                Password = usuario.Password // ya está encriptada
+            };
+
+            await _logService.SaveLogAsync(log);
+
+            // Respuesta
             return CreatedAtAction(nameof(GetUsuario), new { id = usuario.Id }, usuario);
         }
 
@@ -63,8 +77,6 @@ namespace WebApplication2.Controllers
                 return NotFound("Usuario no encontrado.");
 
             usuarioExistente.Username = usuario.Username;
-
-            // Encriptar contraseña al actualizar
             usuarioExistente.Password = Sha256(usuario.Password);
 
             await _context.SaveChangesAsync();
@@ -87,7 +99,20 @@ namespace WebApplication2.Controllers
             return NoContent();
         }
 
-        // 🔐 Método para encriptar con SHA256
+        // ✅ NUEVO ENDPOINT: LOGS
+        // GET: api/usuarios/logs
+        [HttpGet("logs")]
+        public async Task<IActionResult> GetLogs()
+        {
+            var logs = await _logService.GetLogsAsync();
+
+            if (logs.Count == 0)
+                return Ok(new { mensaje = "No hay logs disponibles" });
+
+            return Ok(logs);
+        }
+
+        // 🔐 SHA256
         private string Sha256(string password)
         {
             using (SHA256 sha256 = SHA256.Create())

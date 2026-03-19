@@ -294,3 +294,4 @@ C:\Users\Luik1212\Documents\GitHub\Pactica-5\WebApplication2\WebApplication2\obj
 C:\Users\Luik1212\Documents\GitHub\Pactica-5\WebApplication2\WebApplication2\obj\Debug\net8.0\WebApplication2.pdb
 C:\Users\Luik1212\Documents\GitHub\Pactica-5\WebApplication2\WebApplication2\obj\Debug\net8.0\WebApplication2.genruntimeconfig.cache
 C:\Users\Luik1212\Documents\GitHub\Pactica-5\WebApplication2\WebApplication2\obj\Debug\net8.0\ref\WebApplication2.dll
+C:\Users\Luik1212\Documents\GitHub\Pactica-5\WebApplication2\WebApplication2\bin\Debug\net8.0\user_logs.json

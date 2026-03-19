@@ -4,6 +4,7 @@ using System.Text;
 using Microsoft.EntityFrameworkCore;
 using WebApplication2.Context;
 using Microsoft.OpenApi.Models;
+using WebApplication2.Services; // 👈 NUEVO
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -13,6 +14,9 @@ builder.Services.AddDbContext<LoginDBcontext>(options =>
 
 // Controllers
 builder.Services.AddControllers();
+
+// ✅ REGISTRAR SERVICIO DE LOGS
+builder.Services.AddSingleton<LogService>();
 
 // Configuración JWT
 var jwtSettings = builder.Configuration.GetSection("Jwt");

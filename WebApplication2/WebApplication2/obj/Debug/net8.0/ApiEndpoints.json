@@ -484,6 +484,16 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "WebApplication2.Controllers.UsuariosController",
+    "Method": "GetLogs",
+    "RelativePath": "api/Usuarios/logs",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "WebApplication2.Controllers.WeatherForecastController",
     "Method": "Get",
     "RelativePath": "WeatherForecast",
